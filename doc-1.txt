@@ -1,1 +1,2 @@
 This is the new text file
+The file was changed by another developer
